@@ -1,4 +1,4 @@
-## Linear-Programming-and-Nonlinear-Programing
+## Linear Programming and Nonlinear Programing.
 
 Programas, métodos y  ejercicios.
 
